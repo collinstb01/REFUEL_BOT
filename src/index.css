@@ -50,46 +50,51 @@
 }
 
 .line1 {
-  top: 200px;
+  top: 100px;
   left: 45px;
 }
 
 .line2 {
-  top: 250px;
+  top: 150px;
   left: 45px;
 }
 
 .line3 {
-  top: 300px;
+  top: 200px;
   left: 45px;
 }
 
 .line4 {
-  top: 340px;
+  top: 250px;
   left: 45px;
 }
 
 .line5 {
-  top: 380px;
+  top: 300px;
   left: 45px;
 }
 
 .line6 {
-  top: 420px;
+  top: 350px;
   left: 45px;
 }
 
 .line7 {
-  top: 460px;
+  top: 400px;
   left: 45px;
 }
 
 .line8 {
-  top: 510px;
+  top: 450px;
   left: 45px;
 }
 
 .line9 {
-  top: 560px;
+  top: 500px;
   left: 45px;
+}
+/* Apply this style to the section with the black and blue background */
+.background-gradient {
+  background: radial-gradient(at bottom right, #173e45, #000000 40%);
+  /* Alternatively, you can adjust the blue to protrude more or less by changing the position and percentages */
 }
